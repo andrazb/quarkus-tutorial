@@ -1,16 +1,5 @@
-<library name="Andraz">
-  [
-    {
-      "xml": "ZAKODIRAN_DIAGRAM_TUKAJ",
-      "w": 100,
-      "h": 100,
-      "title": "Moja Predloga 1"
-    },
-    {
-      "xml": "ZAKODIRAN_DIAGRAM_2",
-      "w": 100,
-      "h": 100,
-      "title": "Procesni Diagram"
-    }
-  ]
-</library>
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+  <template section="Andraz" title="Moja Predloga" url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/uml-deployment-example.drawio" />
+  <template section="Andraz" title="Drugi proces" url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/uml-composite-structure-collaboration-use-example.drawio" />
+</templates>
