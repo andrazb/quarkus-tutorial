@@ -1,15 +1,16 @@
-<?xml version="1.0"?>
-<templates>
-  <clibs name="example">
-    <add>https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/gitflow-examples.drawio</add>
-  </clibs>
-
-  <template section="ZPIZ Templates"
-            subsection="Test"
-            url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/gitflow-examples.drawio"
-            title="Moj Diagram"
-            name="Uporabno za X"
-            preview="https://www.zpiz.si/cms/userfiles/image/logo_zpiz1.png"
-            libs="general;basic"
-            clibs="example" />
-</templates>
+<library name="Andraz">
+  [
+    {
+      "xml": "ZAKODIRAN_DIAGRAM_TUKAJ",
+      "w": 100,
+      "h": 100,
+      "title": "Moja Predloga 1"
+    },
+    {
+      "xml": "ZAKODIRAN_DIAGRAM_2",
+      "w": 100,
+      "h": 100,
+      "title": "Procesni Diagram"
+    }
+  ]
+</library>
