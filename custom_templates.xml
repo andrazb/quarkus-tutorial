@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<templates>
+  <clibs name="example">
+    <add>https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/gitflow-examples.drawio</add>
+  </clibs>
+
+  <template section="ZPIZ Templates"
+            subsection="Test"
+            url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/gitflow-examples.drawio"
+            title="Moj Diagram"
+            name="Uporabno za X"
+            preview="https://www.zpiz.si/cms/userfiles/image/logo_zpiz1.png"
+            libs="general;basic"
+            clibs="example" />
+</templates>
